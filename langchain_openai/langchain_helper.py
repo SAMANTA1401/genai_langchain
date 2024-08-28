@@ -6,7 +6,10 @@ import openai
 
 
 import os
-# openai_api_key = os.environ['OPENAI_API_KEY']
+from dotenv import load_dotenv
+load_dotenv()
+
+openai_api_key = os.environ['OPENAI_API_KEY']
 
 
 llm = OpenAI(temperature=0.7)

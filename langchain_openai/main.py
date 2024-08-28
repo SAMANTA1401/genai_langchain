@@ -1,5 +1,7 @@
 import streamlit as st 
-import lanchchain.langchain_helper as langchain_helper
+import langchain_helper as langchain_helper
+
+
 
 st.title("resturant name generator")
 
