@@ -83,6 +83,7 @@ orjson==3.10.7
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
 pandas==2.2.2
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
+pdf2image==1.17.0
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 pillow==10.4.0
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1715777629804/work
